@@ -1,0 +1,181 @@
+c:\users\kursat cakal\documents\visual studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+c:\users\kursat cakal\documents\visual studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+c:\users\kursat cakal\documents\visual studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+c:\users\kursat cakal\documents\visual studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+c:\users\kursat cakal\documents\visual studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+c:\users\kursat cakal\documents\visual studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+c:\users\kursat cakal\documents\visual studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+c:\users\kursat cakal\documents\visual studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+c:\users\kursat cakal\documents\visual studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\KURSAT CAKAL\Documents\Visual Studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+C:\Users\KURSAT CAKAL\Documents\Visual Studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form3.resources
+C:\Users\KURSAT CAKAL\Documents\Visual Studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.derskayıt.resources
+C:\Users\KURSAT CAKAL\Documents\Visual Studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticiform.resources
+C:\Users\KURSAT CAKAL\Documents\Visual Studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogruyesi.resources
+C:\Users\KURSAT CAKAL\Documents\Visual Studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.mainform.resources
+C:\Users\KURSAT CAKAL\Documents\Visual Studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisiform.resources
+C:\Users\KURSAT CAKAL\Documents\Visual Studio 2015\Projects\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisimain.resources
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.derskayıt.resources
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form3.resources
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.mainform.resources
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisiform.resources
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisimain.resources
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogruyesi.resources
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticiform.resources
+D:\Proje 2016\OBS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.derskayıt.resources
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form3.resources
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.mainform.resources
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisiform.resources
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisimain.resources
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogruyesi.resources
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticiform.resources
+D:\Proje 2016\11.5.2016-son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.derskayıt.resources
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form3.resources
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.mainform.resources
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisiform.resources
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisimain.resources
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogruyesi.resources
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticiform.resources
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.formduyuru.resources
+D:\Proje 2016\15.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticinotislemleri.resources
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.derskayıt.resources
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form3.resources
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.formduyuru.resources
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.mainform.resources
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisiform.resources
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisimain.resources
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogruyesi.resources
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticiform.resources
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticinotislemleri.resources
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticiformtakvim.resources
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\Interop.AcroPDFLib.dll
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\Interop.AcroPDFLib.dll
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Proje 2016\18.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.ResolveComReference.cache
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\Interop.AcroPDFLib.dll
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.ResolveComReference.cache
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.derskayıt.resources
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form3.resources
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.formduyuru.resources
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.mainform.resources
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisiform.resources
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisimain.resources
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogruyesi.resources
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticiform.resources
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticiformtakvim.resources
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticinotislemleri.resources
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\Interop.AcroPDFLib.dll
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Proje 2016\20.05.2016\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrencigecmedurumu.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\Interop.AcroPDFLib.dll
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.ResolveComReference.cache
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\Interop.AcroPDFLib.dll
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.derskayıt.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form3.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.formduyuru.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.mainform.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrencigecmedurumu.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisiform.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisimain.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogruyesi.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticiform.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticiformtakvim.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticinotislemleri.resources
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+D:\Proje 2016\20.05.2016(Image Trying)\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form3akademiktakvim.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\Interop.AcroPDFLib.dll
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.ResolveComReference.cache
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\Interop.AcroPDFLib.dll
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.derskayıt.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form3.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form3akademiktakvim.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.formduyuru.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.mainform.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrencigecmedurumu.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisiform.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrgorevlisimain.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogruyesi.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticiform.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticiformtakvim.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.yoneticinotislemleri.resources
+D:\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+D:\İHTİYARİ\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+D:\İHTİYARİ\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\Interop.AcroPDFLib.dll
+D:\İHTİYARİ\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\İHTİYARİ\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.ResolveComReference.cache
+D:\İHTİYARİ\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+D:\İHTİYARİ\Proje 2016\27.05.2016()SonRUTUS\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
